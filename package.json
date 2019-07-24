@@ -1,0 +1,17 @@
+{
+  "name": "webpack-umd-test",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "webpack": "webpack",
+    "start": "http-server"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "react": "^16.8.6",
+    "webpack": "^4.37.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.6"
+  }
+}
